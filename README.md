@@ -17,3 +17,5 @@ MIT License — see LICENSE file.
 
 ## 📬 Contact
 Built by [@WilliamTylerStreet](https://github.com/yourprofile)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
